@@ -9,7 +9,10 @@ public class NextGreaterNumber {
 	public static void main(String[] args) {
 		Scanner scr = new Scanner(System.in);
 		String str = scr.next();
-		
+		int length = str.length();
+		while(length >0) {
+			
+		}
 	}
 
 }
